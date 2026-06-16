@@ -1,5 +1,5 @@
 # EE3111_Powerplay_Predictor
-A course project using linear models for IPL score prediction\
+A course project using linear models for IPL score prediction
 
 Statistical model to predict the score at 6 overs based on ball-by-ball data of first 3 overs
 
