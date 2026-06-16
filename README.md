@@ -7,4 +7,7 @@ Statistical model to predict the score at 6 overs based on ball-by-ball data of 
 
 •	Over the course of 2 rounds with 15 matches each of out of sample data, achieved RMSE of 12.05 and placed 9th
 
+•	Main.py refers to the submission made that obtained the above results while the training file represents the analysis done on the data
+
+
 
